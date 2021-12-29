@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/feras/.dotnet/store/|arch|/|tfm|",
+      "/Users/feras/.nuget/packages"
+    ]
+  }
+}
